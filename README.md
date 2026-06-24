@@ -72,15 +72,7 @@ The inlet velocity was decomposed into x and y components based on angle of atta
 
 ---
 
-## 7. Results
 
-Flow visualizations (velocity contours, pressure contours, streamlines) for both angles of attack are included below.
-
-<!-- Add your images here, e.g.: -->
-<!-- ![Velocity contour - 0 deg](images/velocity_0deg.png) -->
-<!-- ![Velocity contour - 8 deg](images/velocity_8deg.png) -->
-<!-- ![Pressure contour - 8 deg](images/pressure_8deg.png) -->
-<!-- ![Mesh near airfoil](images/mesh_closeup.png) -->
 
 ---
 
