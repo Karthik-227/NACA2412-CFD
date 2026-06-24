@@ -72,19 +72,11 @@ The inlet velocity was decomposed into x and y components based on angle of atta
 
 ---
 
-## 7. Results
 
-Flow visualizations (velocity contours, pressure contours, streamlines) for both angles of attack are included below.
-
-<!-- Add your images here, e.g.: -->
-<!-- ![Velocity contour - 0 deg](images/velocity_0deg.png) -->
-<!-- ![Velocity contour - 8 deg](images/velocity_8deg.png) -->
-<!-- ![Pressure contour - 8 deg](images/pressure_8deg.png) -->
-<!-- ![Mesh near airfoil](images/mesh_closeup.png) -->
 
 ---
 
-## 8. Repository Structure
+## 7. Repository Structure
 
 ```
 .
@@ -97,13 +89,14 @@ Flow visualizations (velocity contours, pressure contours, streamlines) for both
 
 ---
 
-## 9. Tools Used
+## 8. Tools Used
 
 - ANSYS Workbench (Geometry, Meshing, Fluent)
 - Airfoil coordinates: [airfoiltools.com](http://airfoiltools.com/)
 
 ---
 
-## 10. Credits
+## 9. Credits
 
 - NACA 2412 airfoil coordinate data: Airfoil Tools (airfoiltools.com)
+-Cilian Thomas NACA2412 tutorial on Youtube
