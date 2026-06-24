@@ -99,4 +99,4 @@ The inlet velocity was decomposed into x and y components based on angle of atta
 ## 9. Credits
 
 - NACA 2412 airfoil coordinate data: Airfoil Tools (airfoiltools.com)
--Cilian Thomas NACA2412 tutorial on Youtube
+- Cilian Thomas NACA2412 tutorial on Youtube
